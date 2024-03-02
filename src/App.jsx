@@ -16,7 +16,7 @@ const Content = styled.div`
   justify-content: center;
   box-shadow: 0 1px 2px;
   padding: 30px 0;
-  background-color: #5232fa;
+  background-color: #989898;
 `;
 
 const Row = styled.div`

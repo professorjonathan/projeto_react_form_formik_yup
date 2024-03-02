@@ -15,7 +15,7 @@ const Global = createGlobalStyle`
 
     #root {
         width: 100%;
-        background-color: #917dfc;
+        background-color: #565656;
     }
 `;
 
